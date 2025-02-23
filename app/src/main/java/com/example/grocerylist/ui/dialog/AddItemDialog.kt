@@ -31,7 +31,9 @@ class AddItemDialog(context: Context, private val addDialogListener: AddDialogLi
             binding.cancelTextView.setOnClickListener{
                 cancel()
             }
+
         }
+
 
     }
 
